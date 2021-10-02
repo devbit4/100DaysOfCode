@@ -14,4 +14,9 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 4| Sep 28, 2021 | react| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 5| Sep 29, 2021 | dom| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 6| Sep 30, 2021 | npm| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 7| Sep 30, 2021 | react| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 8| Oct 1, 2021 | react| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 9| Oct 2, 2021 | react-robo| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+
+
 
