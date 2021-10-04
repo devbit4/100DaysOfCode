@@ -17,6 +17,8 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 7| Sep 30, 2021 | react| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 8| Oct 1, 2021 | react| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 9| Oct 2, 2021 | react-robo| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 10| Oct 3, 2021 | react|  |
+| Day 11| Oct 4, 2021 | react|  |
 
 
 
