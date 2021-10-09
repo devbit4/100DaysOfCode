@@ -21,7 +21,7 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 11| Oct 4, 2021 | react|  |
 | Day 12| Oct 5, 2021 | react|  |
 | Day 13| Oct 8, 2021 | react|  |
-
+| Day 14| Oct 9, 2021 | react shopping mall |  |
 
 
 
