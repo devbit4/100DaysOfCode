@@ -24,6 +24,8 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 14| Oct 9, 2021 | react shopping mall |  |
 | Day 15| Oct 10, 2021 | react shopping mall/sass |  |
 | Day 16| Oct 11, 2021 | react shopping mall 배포 |  |
+| Day 17| Oct 12, 2021 | react shopping mall |  |
+| Day 18| Oct 13, 2021 | redux |  |
 
 
 
