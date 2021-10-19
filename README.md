@@ -30,6 +30,7 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 20| Oct 16, 2021 | react props| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 21| Oct 17, 2021 | react state사용법| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 22| Oct 18, 2021 | react json | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 23| Oct 19, 2021 | react deployment | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 
 
 
