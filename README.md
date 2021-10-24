@@ -32,6 +32,10 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 22| Oct 18, 2021 | react json | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 23| Oct 19, 2021 | react deployment | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 24| Oct 21, 2021 | http | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 25| Oct 22, 2021 | json| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 26| Oct 23, 2021 | ajax | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 27| Oct 24, 2021 | async | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+
 
 
 
