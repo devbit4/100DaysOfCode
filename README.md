@@ -35,7 +35,7 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 25| Oct 22, 2021 | json| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 26| Oct 23, 2021 | ajax | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 27| Oct 24, 2021 | async | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
-
+| Day 28| Oct 25, 2021 | async | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 
 
 
