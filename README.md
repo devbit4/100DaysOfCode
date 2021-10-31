@@ -39,6 +39,7 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 29| Oct 26, 2021 | api | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 30| Oct 28, 2021 | api | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 31| Oct 30, 2021 | signin | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 32| Oct 31, 2021 | node.js | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 
 
 
