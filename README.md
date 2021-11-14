@@ -43,10 +43,13 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 33| Nov 01, 2021 | node.js | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 34| Nov 04, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 35| Nov 05, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
-
-
-
-
+| Day 36| Nov 06, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 37| Nov 07, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 38| Nov 09, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 39| Nov 11, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 40| Nov 12, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 41| Nov 13, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 42| Nov 14, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 
 
 
