@@ -50,6 +50,9 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 40| Nov 12, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 41| Nov 13, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 42| Nov 14, 2021 | database | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 43| Nov 15, 2021 | deployment | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 44| Nov 16, 2021 | deployment | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+
 
 
 
