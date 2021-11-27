@@ -55,7 +55,7 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 45| Nov 20, 2021 | hook | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 46| Nov 21, 2021 | html/css | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 47| Nov 23, 2021 | html/css | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
-
-
-
+| Day 48| Nov 24, 2021 | javascript | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 49| Nov 25, 2021 | javascript | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
+| Day 50| Nov 26, 2021 | javascript | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 
