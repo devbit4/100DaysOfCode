@@ -67,6 +67,7 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 58| Dec 03, 2021 | react | [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 59| Dec 13, 2021 | react api|  [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) |
 | Day 60| Feb 4, 2022 | react api| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)  |
-| Day 61| Feb 18, 2022 | git/github| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)  |
+| Day 61| Feb 18, 2022 | git/github| |
+| Day 62| Feb 20, 2022 | git/github| |
 
 
