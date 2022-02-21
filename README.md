@@ -69,5 +69,6 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 60| Feb 4, 2022 | react api| [Udemy course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)  |
 | Day 61| Feb 18, 2022 | git/github| |
 | Day 62| Feb 20, 2022 | git/github| |
+| Day 63| Feb 21, 2022 | redux toolkit| |
 
 
