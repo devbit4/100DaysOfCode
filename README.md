@@ -72,3 +72,4 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 63| Feb 21, 2022 | redux toolkit| |
 | Day 64| Feb 22, 2022 | git/github| |
 | Day 65| Feb 23, 2022 | pure redux |https://nomadcoders.co/redux-for-beginners|
+| Day 66| Feb 24, 2022 | redux/react(vanilla js vs react) |https://nomadcoders.co/react-for-beginners/lectures/3264|
