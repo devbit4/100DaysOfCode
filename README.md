@@ -75,6 +75,6 @@ based on [Zero to Mastery(Udemy course)](https://www.udemy.com/course/the-comple
 | Day 66| Feb 24, 2022 | redux/react(vanilla js vs react) |https://nomadcoders.co/react-for-beginners/lectures/3264|
 | Day 67| Feb 25, 2022 | react |https://nomadcoders.co/react-for-beginners/lectures/3264|
 | Day 68| Feb 26, 2022 | git/github |https://nomadcoders.co/react-for-beginners/lectures/3264|
-
 | Day 69| Feb 28, 2022 | grid, csr/ssr |https://nomadcoders.co/react-for-beginners/lectures/3264|
+| Day 70| Mar 1, 2022 | 디버깅 ||
 
